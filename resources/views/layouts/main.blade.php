@@ -40,6 +40,9 @@
         .dg:hover {
             background: #c82333;
         }
+        .fullcaegories {
+            display: block;
+        }
     </style>
 </head>
 <body>
